@@ -12,7 +12,7 @@
 
 Here are some screenshots of the Tic-Tac-Toe game:
 
-<img width="473" alt="adsız1" src="https://github.com/user-attachments/assets/e19683bd-ae02-4dcc-9286-2a4e7cc0b201"><br><br>
+<img width="473" alt="adsız1" src="https://github.com/user-attachments/assets/e19683bd-ae02-4dcc-9286-2a4e7cc0b201">
 
 <img width="497" alt="Adsız 2" src="https://github.com/user-attachments/assets/60cc6d24-12af-4759-ad8c-735bbfbfd50b"><br><br>
 
