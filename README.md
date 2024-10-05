@@ -1,4 +1,4 @@
-<img width="1512" alt="fastapi" src="https://github.com/user-attachments/assets/ce56e7db-87c2-40da-b768-32f37f8f578d"># 🎮 Tic-Tac-Toe ❌ ⭕️ ❌
+# 🎮 Tic-Tac-Toe ❌ ⭕️ ❌
 
 **Tic-Tac-Toe** is a classic strategy game where a single player competes against an AI opponent. The player uses 'X' while the AI uses 'O' on a 3x3 game board. The objective is to get three of your symbols in a row, either horizontally, vertically, or diagonally. This version focuses on providing an engaging experience against the AI, challenging players to think strategically as they try to outsmart their opponent.
 
